@@ -1,3 +1,2 @@
 
-## Author of this website
-- Website Created by Muneeb
+## Website Created by Muneeb
